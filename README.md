@@ -11,6 +11,10 @@
 </div>
 
 ---
+<div align="center">
+  <img width="800" src="image.png" alt="Legal Document Analysis Application User Interface"/>
+  <p><i>Legal Document Analysis Application User Interface</i></p>
+</div>
 
 ## 🚀 Project Overview
 

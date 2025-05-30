@@ -253,11 +253,16 @@ streamlit run app.py
 
 ---
 
-## 👨‍💻 The Innovators
+## 📋 Sample Test Documents
 
-<div align="center">  
-  **Mohamed Sallam**
-  
-  **College of Artificial Intelligence (El Alamein)**  
+For testing the application, we've included sample legal documents in the repository:
+
+```bash
+# Sample PDFs for testing are located in the 'sample_documents' directory
+sample_documents/
+├── Comprehensive_Legal_Document_Test.pdf   # All-in-one test document
+├── Sample_Contract.pdf                     # Basic contract example
+├── Sample_Amendment.pdf                    # Contract amendment example
+├── Sample_Risky_Contract.pdf               # Document with potential risks
   
 </div>

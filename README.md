@@ -252,9 +252,8 @@ streamlit run app.py
 ## 👨‍💻 The Innovators
 
 <div align="center">  
-  **Mohamed Sallam (20100406) & Omar Ahmed (20103728)**
+  **Mohamed Sallam**
   
   **College of Artificial Intelligence (El Alamein)**  
-  **Natural Language Processing (IN321): Final Project**  
-  **February 2024**
+  
 </div>

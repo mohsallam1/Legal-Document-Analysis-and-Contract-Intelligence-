@@ -2,8 +2,6 @@
 
 <div align="center">
   
-  ![Banner](screenshots/banner.png)
-  
   **Transforming legal document analysis with the power of AI**
   
   [![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -16,8 +14,6 @@
 
 ## 🚀 Project Overview
 
-<img align="right" width="400" src="screenshots/ai_legal.gif" alt="AI Legal Assistant"/>
-
 This revolutionary system harnesses cutting-edge Natural Language Processing (NLP) to automatically analyze legal documents with unprecedented speed and accuracy. 
 
 Our AI-powered application:
@@ -28,13 +24,14 @@ Our AI-powered application:
 
 Built as an intuitive web application, this tool empowers legal professionals to focus on high-value work while our AI handles the tedious analysis.
 
+<div align="center">
+  <!-- One main UI image placeholder - replace with your actual UI screenshot -->
+  <p><i>Legal Document Analysis Application User Interface</i></p>
+</div>
+
 ---
 
 ## 🌟 The Future of Legal Analysis
-
-<div align="center">
-  <img width="800" src="screenshots/dashboard.png" alt="Application Dashboard"/>
-</div>
 
 Traditional legal document review is:
 - ⏱️ Time-consuming (hours of manual reading)
@@ -55,61 +52,34 @@ Our AI-powered solution transforms this process:
 ```
 PDF → Text → Structured Sections
 ```
-<img width="700" src="screenshots/preprocessing.png" alt="Document Preprocessing Visualization"/>
-
 - 📄 Seamless PDF to text conversion
 - 📋 Intelligent document segmentation
 - 🧹 Advanced text normalization
 
 ### 🔍 Entity Extraction
-<div align="center">
-  <img width="600" src="screenshots/entity_extraction.png" alt="Entity Extraction"/>
-</div>
-
 - 👥 Automatic identification of parties
 - 📅 Precise date extraction
 - 💰 Monetary value recognition
 - 🏢 Company and organization detection
 
 ### ⚖️ Obligations and Rights Detection
-<table>
-  <tr>
-    <td width="50%"><img src="screenshots/obligations.png" alt="Obligations"/></td>
-    <td width="50%"><img src="screenshots/rights.png" alt="Rights"/></td>
-  </tr>
-  <tr>
-    <td><center>📝 Obligations</center></td>
-    <td><center>✅ Rights</center></td>
-  </tr>
-</table>
-
-- 📜 Identification of "shall," "must," "will" clauses
+- 📝 Identification of "shall," "must," "will" clauses
 - 🔑 Detection of "may," "entitled to" provisions
 - 🔄 Subject-action linking for context awareness
 
 ### ⚠️ Risk Assessment
-<div align="center">
-  <img width="700" src="screenshots/risk_heatmap.png" alt="Risk Heatmap"/>
-</div>
-
 - 🌫️ Vague term detection ("reasonable," "promptly")
 - ❓ Missing information flagging ("TBD," "to be agreed")
 - ⛔ Unfavorable clause identification
 - 🚨 Risk visualization with intuitive highlighting
 
 ### 📊 Document Summarization
-<img align="right" width="350" src="screenshots/summary_generation.png" alt="Summary Generation"/>
-
 - 🔑 Key point extraction using AI
 - 💡 TF-IDF powered importance scoring
 - 📈 Adjustable summary length
 - 🔄 Instant regeneration with different parameters
 
 ### 🔍 Document Comparison
-<div align="center">
-  <img width="800" src="screenshots/document_comparison.png" alt="Document Comparison"/>
-</div>
-
 - 👀 Side-by-side visual comparison
 - ➕ Added content highlighting
 - ➖ Removed content marking
@@ -117,10 +87,6 @@ PDF → Text → Structured Sections
 - 📊 Difference statistics and reporting
 
 ### 🎮 Futuristic User Interface
-<div align="center">
-  <img width="800" src="screenshots/ui_showcase.png" alt="UI Showcase"/>
-</div>
-
 - 🖥️ Sleek, responsive design
 - 📱 Cross-device compatibility
 - 🧠 Intuitive workflow navigation
@@ -132,14 +98,15 @@ PDF → Text → Structured Sections
 ## 🛠️ Technical Implementation
 
 ### 🧰 Technologies Powering Our System
+
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img width="80" src="screenshots/python_logo.png"/><br/>Python</td>
-      <td align="center"><img width="80" src="screenshots/streamlit_logo.png"/><br/>Streamlit</td>
-      <td align="center"><img width="80" src="screenshots/nltk_logo.png"/><br/>NLTK</td>
-      <td align="center"><img width="80" src="screenshots/sklearn_logo.png"/><br/>Scikit-learn</td>
-      <td align="center"><img width="80" src="screenshots/regex_logo.png"/><br/>Regex</td>
+      <td align="center">Python</td>
+      <td align="center">Streamlit</td>
+      <td align="center">NLTK</td>
+      <td align="center">Scikit-learn</td>
+      <td align="center">Regex</td>
     </tr>
   </table>
 </div>
@@ -220,10 +187,6 @@ def compare_legal_documents(doc1, doc2):
 
 ## 🔄 System Workflow
 
-<div align="center">
-  <img width="900" src="screenshots/workflow.png" alt="System Workflow"/>
-</div>
-
 1. **📤 Document Upload** - Secure drag-and-drop interface
 2. **🔄 AI Processing** - Parallel analysis pipelines for speed
 3. **📊 Results Generation** - Interactive visualizations
@@ -233,10 +196,6 @@ def compare_legal_documents(doc1, doc2):
 ---
 
 ## 📊 Performance Metrics
-
-<div align="center">
-  <img width="700" src="screenshots/performance_metrics.png" alt="Performance Metrics"/>
-</div>
 
 Our system achieves impressive results:
 - ⚡ **Speed**: Analyze 100-page contracts in under 60 seconds
@@ -249,10 +208,6 @@ Our system achieves impressive results:
 
 ## 🔮 Future Enhancements
 
-<div align="center">
-  <img width="800" src="screenshots/future_roadmap.png" alt="Future Roadmap"/>
-</div>
-
 - 🧠 **Advanced ML Models** - Transformer-based legal language understanding
 - 🌐 **Multi-language Support** - Expand beyond English to global coverage
 - 📱 **Mobile App** - On-the-go legal document analysis
@@ -263,10 +218,6 @@ Our system achieves impressive results:
 ---
 
 ## 🚀 Installation and Usage
-
-<div align="center">
-  <img width="700" src="screenshots/installation.png" alt="Installation Guide"/>
-</div>
 
 ### System Requirements
 - 🖥️ Python 3.9+
@@ -300,22 +251,10 @@ streamlit run app.py
 
 ## 👨‍💻 The Innovators
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><img width="100" src="screenshots/team_member1.png"/><br/><b>Mohamed Sallam</b><br/>20100406<br/>AI Engineer</td>
-      <td align="center"><img width="100" src="screenshots/team_member2.png"/><br/><b>Omar Ahmed</b><br/>20103728<br/>NLP Specialist</td>
-    </tr>
-  </table>
+<div align="center">  
+  **Mohamed Sallam (20100406) & Omar Ahmed (20103728)**
   
   **College of Artificial Intelligence (El Alamein)**  
   **Natural Language Processing (IN321): Final Project**  
   **February 2024**
-</div>
-
----
-
-<div align="center">
-  <img width="500" src="screenshots/demo_qr.png" alt="Demo QR Code"/>
-  <p><i>Scan to see a live demo of the system</i></p>
 </div>

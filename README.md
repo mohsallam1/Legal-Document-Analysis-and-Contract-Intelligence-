@@ -265,4 +265,4 @@ sample_documents/
 ├── Sample_Amendment.pdf                    # Contract amendment example
 ├── Sample_Risky_Contract.pdf               # Document with potential risks
   
-</div>
+
